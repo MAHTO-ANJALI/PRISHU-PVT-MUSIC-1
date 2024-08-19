@@ -53,12 +53,12 @@ async def init():
         pass
     await Spotify.decorators()
     LOGGER("Spotify_Music").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  🌸ᴍᴀᴅᴇ ʙʏᴇ ᴛᴇᴀᴍ ᴘʙx (sᴜᴋʜ) 🌸\n╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n  🌸ᴍᴀᴅᴇ ʙʏᴇ ᴍᴀʜᴛᴏ ᴀɴᴊᴀʟɪ (ᴍᴀʜᴛᴏ) 🌸\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("Spotify_Music").info("Stopping Brandrd Music Bot...")
+    LOGGER("Spotify_Music").info("Stopping Prishu Music Bot...")
 
 
 if __name__ == "__main__":
