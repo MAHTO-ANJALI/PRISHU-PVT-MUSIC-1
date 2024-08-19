@@ -1,9 +1,9 @@
 <h2 align="center">
-    ─「 sᴘᴏᴛɪғʏ ᴍᴜsɪᴄ 」─
+    ─「 ᴘʀɪsʜᴜ ᴍᴜsɪᴄ 」─
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+sᴘᴏᴛɪғʏ+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+ʙᴀᴅ+ᴍᴜɴᴅᴀ)](https://github.com/Badhacker98/Spotify_Music)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+ᴘʀɪsʜᴜ+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+ᴍᴀʜᴛᴏ+ᴀɴᴊᴀʟɪ)](https://github.com/MAHTO-ANJALI/PRISHU-PVT-MUSIC-1)
 
 
 
@@ -24,11 +24,11 @@
 ## 🖇 Generating Pyrogram String Session
 
 <p>
-<a href="https://t.me/Gaana_MusicBot"><img src="https://img.shields.io/badge/DEMO%20BOT-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/ll_BAD_MUNDA_ll"><img src="https://img.shields.io/badge/DM%20TO%20BADMUNDA-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/PRISHUMUSICBOT"><img src="https://img.shields.io/badge/DEMO%20BOT-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/AnjaliOwnerBot"><img src="https://img.shields.io/badge/DM%20TO%20MAHTOANJALI-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 
 # 𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Badhacker98/Spotify_Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-greenviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/MAHTO-ANJALI/PRISHU-PVT-MUSIC-1"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-greenviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ---
 # HOST ON VPS 
@@ -85,7 +85,7 @@ curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-ge
 
 11.
 ```
-git clone https://github.com/Badhacker98/Spotify_Music && cd Spotify_Music
+git clone https://github.com/MAHTO-ANJALI/PRISHU-PVT-MUSIC-1 && cd PRISHU-PVT-MUSIC-1
 ```
 
 12.
@@ -110,7 +110,7 @@ sudo bash setup
 
 16.
 ```
-screen -R Spotify_Music
+screen -R PRISHU-PVT-MUSIC-1
 ```
 
 17.
@@ -125,6 +125,6 @@ ctrl + a+d
 ---
 
 ### Contact :
-<a href="https://t.me/ll_BAD_MUNDA_ll"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/AnjaliOwnerBot"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sukhwinderwarval50@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/lll_bad_munda_lll"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
