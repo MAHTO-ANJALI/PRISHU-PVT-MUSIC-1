@@ -9,16 +9,16 @@ from config import MUSIC_BOT_NAME
 @app.on_message(filters.command(["repo"]))
 async def start(client: Client, message: Message):
     await message.reply_video(
-        video=f"https://telegra.ph/file/bda2c51bd00c8f4710b04.mp4",
+        video=f"https://te.legra.ph/file/0c56841859f735bb4d6f0.mp4",
         caption=f"❤️ ʜᴇʏ {message.from_user.mention}",
         reply_markup=InlineKeyboardMarkup(
             [
                [
             InlineKeyboardButton(
-                text="☆ ᴏᴡɴᴇʀ 💗 ", url=f"https://t.me/ll_BAD_MUNDA_ll"
+                text="☆ ᴏᴡɴᴇʀ 💗 ", url=f"https://t.me/N3ON_xD"
             ),
             InlineKeyboardButton(
-                text="☆ ꜱᴜᴘᴘᴏʀᴛ 💗", url=f"https://t.me/ll_BAD_MUNDA_ll/11"
+                text="☆ ꜱᴜᴘᴘᴏʀᴛ 💗", url=f"https://t.me/+SFIzvQrDs0hmYzU1"
             ),
         ],
                 [
